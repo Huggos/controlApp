@@ -1,3 +1,3 @@
-build=2
+build=1
 url=https://github.com/Huggos/controlApp/raw/refs/heads/main/controlApp.exe
-sha256=6c8f64023200b5c2efcc129c0d575dae0dd4a4421452c6f24c7024b29a71fe0f
+sha256=58270b54e17c37c3968518f506af4e34d14b03c6ee852a7caab42f33ef849004
