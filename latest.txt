@@ -1,3 +1,4 @@
-build=2
-url=https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v2/controlApp.exe
-sha256=PASTE_SHA256_HASH_HERE
+build=1
+url=https://github.com/Huggos/controlApp/raw/refs/heads/main/controlApp.exe
+sha256=f551fc304b4518babea902031df4c438fcee9a4c157d670bc5f7ea1fb035a5c0
+
